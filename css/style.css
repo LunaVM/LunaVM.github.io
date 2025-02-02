@@ -1,1 +1,15 @@
-TBA
+body {
+    background-color: #00807F;
+    color: White;
+    font-family: "Arial", serif;
+}
+
+header {
+    margin: auto;
+    padding: auto;
+}
+
+.rightside {
+    float: right;
+    font-size: 18px;
+}
