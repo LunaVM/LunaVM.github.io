@@ -25,7 +25,17 @@ a:hover
 }
 
 .ljvm-title {
-    display: inline;
-    margin-right: 10px; /* optional, adds some spacing between list items */
+    display: flex;
+    align-items: center;
     
+}
+
+.ljvm-title a {
+    margin: 0;
+
+}
+
+.ljvm-title h1 {
+    margin: 10px;
+
 }
