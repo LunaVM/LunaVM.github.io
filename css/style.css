@@ -9,11 +9,6 @@ header {
     padding: auto;
 }
 
-.rightside {
-    float: right;
-    font-size: 18px;
-}
-
 a:link
 {
     color:#FFFFFF;
@@ -27,4 +22,10 @@ a:visited
 a:hover 
 {
     color:#ced6de;
+}
+
+.ljvm-title {
+    display: inline;
+    margin-right: 10px; /* optional, adds some spacing between list items */
+    
 }
