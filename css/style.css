@@ -42,10 +42,12 @@ a:hover
 
 .ljvm-footer {
     background-color: #4b4e52;
-    position: absolute; /* Set position to absolute */
-    bottom: 0; /* Align to the bottom of the page */
-    width: 100%; /* Make the footer span the full width of the page */
-    text-align: center; /* Center the text */
-    padding: 10px 0; /* Add some padding for spacing */
-    margin-top: 20px; /* Optional: Adds 20px space above the footer */
+    color: white;
+    position: fixed; 
+    left: 0;
+    bottom: 0; 
+    width: 100%; 
+    text-align: center; 
+    padding: 10px 0; 
+    margin-top: 20px; 
 }
