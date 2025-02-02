@@ -13,3 +13,18 @@ header {
     float: right;
     font-size: 18px;
 }
+
+a:link
+{
+    color:#FFFFFF;
+}
+
+a:visited
+{
+    color:#a3abb5;
+}
+
+a:hover 
+{
+    color:#ced6de;
+}
