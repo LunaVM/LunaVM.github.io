@@ -56,3 +56,28 @@ a:hover
     flex: 1;
     padding: 20px;
     padding-bottom: 60px;
+
+}
+
+.ljvm-staffdir {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+
+}
+
+.ljvm-staff {
+    text-align: center;
+}
+
+.ljvm-staff img {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+.ljvm-staff .ljvm-staffrole {
+    margin-top: 10px;
+    font-size: 1rem;
+}
