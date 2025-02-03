@@ -70,6 +70,8 @@ a:hover
 
 .ljvm-staff {
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 .ljvm-staff img {
