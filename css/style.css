@@ -51,3 +51,8 @@ a:hover
     padding: 10px 0; 
     margin-top: 20px; 
 }
+
+.ljvm-body {
+    flex: 1;
+    padding: 20px;
+    padding-bottom: 60px;
