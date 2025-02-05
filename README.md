@@ -4,3 +4,4 @@ Old website: https://anydeskvms.wixsite.com/avms (Warning: These VMs are mostly 
 
 ### Delete after merging
 Welcome to my fork of LJ-VM
+Maintainer of this fork [sofiaslost](https://sofiaslost.co.uk)
