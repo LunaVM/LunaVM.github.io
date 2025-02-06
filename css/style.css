@@ -3,12 +3,17 @@ body {
     color: White;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family: "Verdana", serif;
 }
 
 header {
     margin: auto;
     padding: auto;
+=======
+    /*font-family: "Arial", serif;*/
+    /*It should use the font Arial by default*/
+>>>>>>> parent of 3b6d410 (Updated both VMs pages with a new layout)
 =======
     /*font-family: "Arial", serif;*/
     /*It should use the font Arial by default*/
