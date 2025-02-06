@@ -4,6 +4,11 @@ body {
     font-family: "Verdana", serif;
 }
 
+header {
+    margin: auto;
+    padding: auto;
+}
+
 a:link
 {
     color:#FFFFFF;
@@ -19,21 +24,20 @@ a:hover
     color:#ced6de;
 }
 
-table {
-    text-indent: 15px;
-}
-
 .ljvm-title {
     display: flex;
     align-items: center;
+    
 }
 
 .ljvm-title a {
     margin: 0 10px;
+
 }
 
 .ljvm-title h1 {
     margin: 10px;
+
 }
 
 .ljvm-footer {
@@ -52,14 +56,16 @@ table {
     flex: 1;
     padding: 20px;
     padding-bottom: 60px;
+
 }
 
 .ljvm-staffdir {
     display: grid;
-    grid-template-columns: repeat(5, 200px);
+    grid-template-columns: repeat(4, 200px);
     column-gap: 10px;
     row-gap: 20px;
     padding: 20px;
+
 }
 
 .ljvm-staff {
