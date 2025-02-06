@@ -61,7 +61,7 @@ a:hover
 
 .ljvm-staffdir {
     display: grid;
-    grid-template-columns: repeat(4, 200px);
+    grid-template-columns: repeat(10, 200px);
     column-gap: 10px;
     row-gap: 20px;
     padding: 20px;
