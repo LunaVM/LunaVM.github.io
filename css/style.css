@@ -6,21 +6,21 @@ body {
 
 a:link
 {
-    color:#FFFFFF;
+    color:#491d61;
 }
 
 a:visited
 {
-    color:#a3abb5;
+    color:#1a0924;
 }
 
 a:hover 
 {
-    color:#ced6de;
+    color:#af76cf;
 }
 
 hr {
-    border-color: white;
+    border-color: lavender;
     border-width: 2px;
     border-style: solid;
     border-radius: 8px;
