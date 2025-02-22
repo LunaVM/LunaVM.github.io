@@ -1,7 +1,7 @@
 body {
-    background-color: #00807F;
+    background-color: #ce9ee8;
     color: White;
-    font-family: "Arial", serif;
+    font-family: "Verdana", serif;
 }
 
 a:link
@@ -44,7 +44,7 @@ hr {
 }
 
 .ljvm-footer {
-    background-color: #4b4e52;
+    background-color: #491d61;
     color: white;
     position: fixed; 
     left: 0;
