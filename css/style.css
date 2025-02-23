@@ -89,3 +89,7 @@ hr {
     margin-top: 10px;
     font-size: 1rem;
 }
+
+.centertext {
+    text-align: center;
+}
