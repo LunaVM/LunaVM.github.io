@@ -17,4 +17,4 @@ sofiaslost - Contributor <a href="https://sofiaslost.co.uk">Sofia's website</a>
 LJ9859 - Contributor <a href="https://github.com/LJ9859">LJ's GitHub</a>
 
 ## Credits
-LJ9859 - Original Site Owner <a href="https://github.com/LJ9859/LJ-VM">LJ-VM Repo here</a>
+LJ9859 - Original Site Owner <a href="https://github.com/LJ-VM/lj-vm.github.io">LJ-VM Repo here</a>
